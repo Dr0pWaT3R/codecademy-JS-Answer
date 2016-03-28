@@ -1,0 +1,6 @@
+var text = "Hey, how are you \
+doing? My name is Emily.";
+
+var myName = "Dr0PW@T3R";
+
+var hits = [];
